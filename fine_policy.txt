@@ -1,0 +1,3 @@
+Library Fine Policy
+
+Books returned late will be subject to a library fine.
