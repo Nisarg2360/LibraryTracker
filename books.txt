@@ -1,0 +1,7 @@
+1. One Punch Man:
+Author: ONE
+availability: true
+
+2. One Piece:
+Author: Oda
+availability: false
